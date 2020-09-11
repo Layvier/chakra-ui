@@ -113,7 +113,9 @@ exports[`should render into a custom container 1`] = `
 `;
 
 exports[`should render nested portal 1`] = `
-<body>
+<body
+  class="chakra-ui-light"
+>
   <div
     id="chakra-toast-portal"
   >
@@ -162,7 +164,9 @@ exports[`should render nested portal 1`] = `
 `;
 
 exports[`should render portal 1`] = `
-<body>
+<body
+  class="chakra-ui-light"
+>
   <div
     id="chakra-toast-portal"
   >
